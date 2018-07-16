@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+  background-image: url("imgres.jpg");
+  color: black;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+}
+
+.btn-twitter {
+  background-color: #00acee;o
+border-color: #314776;
+}
+
+.btn-pinterest{
+  background-color: #b62f26;
+  border-color: #b62f26;
+}
+h2 {
+  font-style: italic;
+}
+h1 {
+  font-family: fantasy;
+}

@@ -1,0 +1,22 @@
+p {
+  font-size: 25px;
+  color: PINK;
+  background-color: black;
+}
+h1{
+  color:grey;
+}
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+}
+
+.btn-twitter {
+  background-color: #00acee;o
+border-color: #314776;
+}
+
+.btn-pinterest{
+  background-color: #b62f26;
+  border-color: #b62f26;
+}

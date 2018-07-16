@@ -1,0 +1,14 @@
+body{
+  background-image: url("images.jpg");
+  background-color: black;
+}
+p {
+  color: PINK;
+}
+h1 {
+color  : silver;
+font-style: oblique;
+}
+p {
+  font-stretch: semi-expanded;
+}
